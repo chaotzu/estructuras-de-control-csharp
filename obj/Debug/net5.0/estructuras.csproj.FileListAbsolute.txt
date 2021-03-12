@@ -1,0 +1,15 @@
+/Users/chaos/Documents/Desarrollo/net/estructuras/obj/Debug/net5.0/estructuras.csprojAssemblyReference.cache
+/Users/chaos/Documents/Desarrollo/net/estructuras/obj/Debug/net5.0/estructuras.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chaos/Documents/Desarrollo/net/estructuras/obj/Debug/net5.0/estructuras.AssemblyInfoInputs.cache
+/Users/chaos/Documents/Desarrollo/net/estructuras/obj/Debug/net5.0/estructuras.AssemblyInfo.cs
+/Users/chaos/Documents/Desarrollo/net/estructuras/obj/Debug/net5.0/estructuras.csproj.CoreCompileInputs.cache
+/Users/chaos/Documents/Desarrollo/net/estructuras/bin/Debug/net5.0/estructuras.deps.json
+/Users/chaos/Documents/Desarrollo/net/estructuras/bin/Debug/net5.0/estructuras.runtimeconfig.json
+/Users/chaos/Documents/Desarrollo/net/estructuras/bin/Debug/net5.0/estructuras.runtimeconfig.dev.json
+/Users/chaos/Documents/Desarrollo/net/estructuras/bin/Debug/net5.0/estructuras.dll
+/Users/chaos/Documents/Desarrollo/net/estructuras/bin/Debug/net5.0/ref/estructuras.dll
+/Users/chaos/Documents/Desarrollo/net/estructuras/bin/Debug/net5.0/estructuras.pdb
+/Users/chaos/Documents/Desarrollo/net/estructuras/obj/Debug/net5.0/estructuras.dll
+/Users/chaos/Documents/Desarrollo/net/estructuras/obj/Debug/net5.0/ref/estructuras.dll
+/Users/chaos/Documents/Desarrollo/net/estructuras/obj/Debug/net5.0/estructuras.pdb
+/Users/chaos/Documents/Desarrollo/net/estructuras/obj/Debug/net5.0/estructuras.genruntimeconfig.cache
